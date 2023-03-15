@@ -1,0 +1,16 @@
+#titulo{
+    color: rgba(197, 56, 56, 0.856);
+    font-style: italic;
+}
+
+.encabezado{
+    background-color: bisque;
+    padding: 10px;
+}
+
+#elemento-1{
+    color: red;
+}
+.tamaño{
+    font-size: 2rem;
+}
